@@ -631,7 +631,7 @@ BackEngineVehicles = {
 }
 
 Config.MaximumAmmoValues = {
-    ["pistol"] = 250,
+    ["pistol"] = 200,
     ["smg"] = 250,
     ["shotgun"] = 200,
     ["rifle"] = 250,
